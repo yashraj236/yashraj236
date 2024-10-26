@@ -27,11 +27,11 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=yashraj236&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashraj236&theme=dracula&hide_border=true)](https://github.com/yashraj236?tab=repositories)
-![snake gif](https://github.com/Dewansh36/Dewansh36/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Dewansh36/yashraj236/blob/output/github-contribution-grid-snake.gif)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashraj236&theme=dracula&show_icons=true&locale=en&layout=compact" alt="yashraj236" />
 
   
-![Profile_Views](https://komarev.com/ghpvc/?username=Dewansh36&style=for-the-badge&label=Visitors+Count&color=brightgreen)
+![Profile_Views](https://komarev.com/ghpvc/?username=yashraj236&style=for-the-badge&label=Visitors+Count&color=brightgreen)
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
