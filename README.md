@@ -16,7 +16,7 @@
 <div align="center">
 <h3>Connect with me:</h3>
 <p>
-<a href="https://www.linkedin.com/in/yashraj-agarwal-83b737172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="dewansh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yashraj-agarwal-83b737172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="yashraj" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/yashrajagarwal81/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="codewhiteweb" height="30" width="40" /></a>
 
 </p>
