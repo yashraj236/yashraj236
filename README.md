@@ -27,7 +27,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=yashraj236&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashraj236&theme=dracula&hide_border=true)](https://github.com/yashraj236?tab=repositories)
-3
+
 ![snake gif](https://github.com/yashraj236/blob/output/github-contribution-grid-snake.gif)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashraj236&theme=dracula&show_icons=true&locale=en&layout=compact" alt="yashraj236" />
 
